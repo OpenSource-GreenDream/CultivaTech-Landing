@@ -1,0 +1,58 @@
+.footer {
+  width: 100%;
+  background-color: #1b4d3e; /* Verde oscuro corporativo */
+  color: #ffffff;
+  padding: 3rem 2rem 1.5rem 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.8rem;
+}
+
+.footer-brand h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #81c784;
+  margin-bottom: 0.3rem;
+  text-align: center;
+}
+
+.footer-brand p {
+  font-size: 0.9rem;
+  color: #a5d6a7;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-links a {
+  color: #e8f5e9;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #81c784;
+}
+
+.footer-copy {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  width: 100%;
+  padding-top: 1.2rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #a5d6a7;
+}
