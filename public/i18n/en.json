@@ -1,0 +1,74 @@
+{
+  "toolbar": {
+    "features": "Features",
+    "about-product": "About The Product",
+    "about-team": "About The Team"
+  },
+  "hero": {
+    "title": "Smart Monitoring",
+    "description": "Monitor your crops with IoT devices and use predictive analytics to optimize irrigation and fertilization of your lands."
+  },
+  "hero-visual": {
+    "temp": "Temperature",
+    "humidity": "Soil Humidity",
+    "nutrients": "Nutrients",
+    "optimus": "Optimum"
+  },
+  "feature": {
+    "header": {
+      "title": "Designed to optimize your agricultural production",
+      "description": "IoT technology and predictive analytics at the service of your lands."
+    },
+    "cards": {
+      "monitoring": {
+        "title": "Real-Time Monitoring",
+        "description": "IoT sensors installed in the field that continuously measure humidity, temperature, and nutrients."
+      },
+      "predictive": {
+        "title": "Predictive Analytics",
+        "description": "Algorithms that predict irrigation and fertilization needs."
+      },
+      "alerts": {
+        "title": "Smart Alerts",
+        "description": "Automatic notifications when humidity or nutrient levels are outside the optimal range."
+      }
+    }
+  },
+  "about-product": {
+    "title": "About The Project",
+    "description-1": "R&D initiative focused on enhancing agricultural efficiency through IoT technology and data analytics.",
+    "description-2": "We empower farmers with precision tools to optimize resources and make smart decisions."
+  },
+  "team": {
+    "badge": "Our Team",
+    "title": "Meet the creators of CultivaTech",
+    "subtitle": "The talent behind the innovation at GreenDream.",
+    "role": "Developer",
+    "members": {
+      "jean": {
+        "name": "Condor Sandoval, Jean Pierre",
+        "description": "My name is Jean Pierre Condor Sandoval, I am 19 years old and currently in the 6th cycle of the Software Engineering program at UPC. My knowledge is mainly focused on Front End development, using modern technologies to create dynamic and intuitive web interfaces."
+      },
+      "maria": {
+        "name": "Munayco Apolaya, Maria Luisa",
+        "description": "My name is María Luisa Munayco Apolaya and I am a Software Engineering student at UPC. I am interested in further developing my skills in technology and participating in projects that allow me to gain experience and create software solutions with my team."
+      },
+      "renzo": {
+        "name": "Santos Minaya, Renzo Piero",
+        "description": "My name is Renzo Piero Santos Minaya, a student in the 6th cycle of Software Engineering at UPC. In the long term, my goals are to develop skills in software management and business management, growing professionally in my country or abroad."
+      },
+      "jorge": {
+        "name": "Retuerto Rodriguez, Jorge Manuel",
+        "description": "My name is Jorge Manuel Retuerto Rodriguez, a student in the 7th cycle of Software Engineering at UPC. I am passionate about technology and software development, and I aspire to contribute to innovative projects that have a positive impact on society."
+      },
+      "karen": {
+        "name": "Silva Hualpa, Rosangela Karen",
+        "description": "My name is Rosangela Karen Silva Hualpa, a student in the 6th cycle of Software Engineering at UPC. I am passionate about technology and software development, and I aspire to contribute to innovative projects that have a positive impact on society."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "IoT Solutions for Intelligent and Sustainable Agriculture.",
+    "rights": "All rights reserved."
+  }
+}
