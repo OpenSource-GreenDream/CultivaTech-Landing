@@ -1,0 +1,75 @@
+{
+  "toolbar": {
+    "features": "Características",
+    "about-product": "Sobre el Producto",
+    "about-team": "Sobre el Equipo"
+  },
+  "hero": {
+    "title": "Monitoreo Inteligente",
+    "description": "Monitorea tus cultivos con dispositivos IoT y utiliza análisis predictivo para optimizar el riego y la fertilización de tus tierras."
+  },
+  "hero-visual": {
+    "temp": "Temperatura",
+    "humidity": "Humedad de suelo",
+    "nutrients": "Nutrientes",
+    "optimus": "Optimo"
+  },
+  "feature": {
+    "header": {
+      "title": "Diseñado para optimizar tu producción agrícola",
+      "description": "Tecnología IoT y análisis predictivo al servicio de tus tierras."
+    },
+    "cards": {
+      "monitoring": {
+        "title": "Monitoreo en Tiempo Real",
+        "description": "Sensores IoT instalados en campo que miden humedad, temperatura y nutrientes de manera continua."
+      },
+      "predictive": {
+        "title": "Análisis Predictivo",
+        "description": "Algoritmos que predicen las necesidades de riego y fertilización."
+      },
+      "alerts": {
+        "title": "Alertas Inteligentes",
+        "description": "Notificaciones automáticas cuando los niveles de humedad o nutrientes están fuera del rango óptimo."
+      }
+    }
+  },
+  "about-product": {
+    "title": "Sobre el Proyecto",
+    "description-1": "Iniciativa de I+D enfocado en elevar la eficiencia agrícola mediante tecnología IoT y analítica de datos.",
+    "description-2": "Empoderamos a los agricultores con herramientas de precisión para optimizar recursos y tomar decisiones inteligentes."
+  },
+  "team": {
+    "badge": "Nuestro Equipo",
+    "title": "Conoce a los creadores de CultivaTech",
+    "subtitle": "El talento detrás de la innovación en GreenDream.",
+    "role": "Developer",
+    "members": {
+      "jean": {
+        "name": "Condor Sandoval, Jean Pierre",
+        "description": "Mi nombre es Jean Pierre Condor Sandoval, tengo 19 años y actualmente curso el 6to ciclo de la carrera de Ingeniería de Software en la UPC. Mis conocimientos están orientados principalmente al desarrollo Front End, utilizando tecnologías modernas para la creación de interfaces web dinámicas e intuitivas."
+      },
+      "maria": {
+        "name": "Munayco Apolaya, Maria Luisa",
+        "description": "Mi nombre es María Luisa Munayco Apolaya y soy estudiante de Ingeniería de Software en la UPC. Me interesa seguir desarrollando mis habilidades en tecnología y participar en proyectos que me permitan adquirir experiencia y crear soluciones de software junto a mi equipo."
+      },
+      "renzo": {
+        "name": "Santos Minaya, Renzo Piero",
+        "description": "Mi nombre es Renzo Piero Santos Minaya, estudiante del 6to ciclo de Ingeniería de Software en la UPC. A largo plazo mis metas son desarrollar habilidades en gestión de software y business management, creciendo profesionalmente en mi país o en el extranjero."
+      },
+      "jorge": {
+        "name": "Retuerto Rodriguez, Jorge Manuel",
+        "description": "Mi nombre es Jorge Manuel Retuerto Rodríguez, tengo 21 años y curso el 7mo ciclo de Ingeniería de Software en la UPC. Mis habilidades se enfocan en el desarrollo Back End con C# y Java, haciéndome responsable de la planificación y desarrollo junto a mi equipo."
+      },
+      "karen": {
+        "name": "Silva Hualpa, Rosangela Karen",
+        "description": "Mi nombre es Rosangela Silva y curso la carrera de Ingeniería de Software en la UPC. Tengo interés en enfocarme en el desarrollo y creación de soluciones de software, aportando mis conocimientos y aprendiendo junto a mi equipo para cumplir los objetivos."
+      }
+    },
+    "footer": {
+      "tagline": "Soluciones IoT para una agricultura inteligente y sostenible.",
+      "rights": "Todos los derechos reservados."
+    }
+
+  }
+}
