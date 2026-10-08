@@ -1,9 +1,11 @@
 import { Component } from '@angular/core';
 import {TranslatePipe} from '@ngx-translate/core';
+import {LanguageSwitcher} from '../language-switcher/language-switcher';
 
 @Component({
   imports: [
-    TranslatePipe
+    TranslatePipe,
+    LanguageSwitcher
   ],
   selector: 'app-toolbar',
   styleUrl: './toolbar.css',
@@ -11,6 +13,6 @@ import {TranslatePipe} from '@ngx-translate/core';
 })
 export class Toolbar {
   onButtonDemo(){
-    //TODO: Implement button to translate to FrontEnd.
+    window.location.href = 'https://cultivatech-frontend.onrender.com';
   }
 }

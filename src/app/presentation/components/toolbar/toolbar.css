@@ -50,6 +50,12 @@
   color: #2e7d32;
 }
 
+.navbar-actions{
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
 .navbar-actions .btn-demo {
   background-color: #2e7d32;
   color: #ffffff;

@@ -11,6 +11,6 @@ import {TranslatePipe} from '@ngx-translate/core';
 })
 export class Hero {
   onButtonDemo(){
-    //TODO: Implement button to translate to FrontEnd.
+    window.location.href = 'https://cultivatech-frontend.onrender.com';
   }
 }
